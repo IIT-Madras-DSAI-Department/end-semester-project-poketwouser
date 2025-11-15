@@ -1,0 +1,4 @@
+Model,Efficiency (Acc/Train Time)
+Logistic Regression,0.012517
+Random Forest,0.002189
+XGBoost,0.002093
